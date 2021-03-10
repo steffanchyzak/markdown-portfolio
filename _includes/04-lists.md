@@ -1,7 +1,7 @@
-# Here is a list of some items
+# Things that I like
 
-1. Item 1
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b
+1. Programming
+2. Design
+3. Workflows
+   1. JIRA
+   2. MS Teams
